@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-DevGuide.iml" filepath="$PROJECT_DIR$/Java-DevGuide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/sharding-sphere-demo/sharding-sphere-demo.iml" filepath="$PROJECT_DIR$/demo/sharding-sphere-demo/sharding-sphere-demo.iml" />
+    </modules>
+  </component>
+</project>
