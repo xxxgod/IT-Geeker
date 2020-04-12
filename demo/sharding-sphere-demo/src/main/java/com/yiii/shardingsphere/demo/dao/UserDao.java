@@ -1,8 +1,8 @@
-package com.lh.shardingsphere.demo.dao;
+package com.yiii.shardingsphere.demo.dao;
 
 
-import com.lh.shardingsphere.demo.model.User;
-import com.lh.shardingsphere.demo.vo.UserScoreVo;
+import com.yiii.shardingsphere.demo.model.User;
+import com.yiii.shardingsphere.demo.vo.UserScoreVo;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 import tk.mybatis.mapper.common.BaseMapper;

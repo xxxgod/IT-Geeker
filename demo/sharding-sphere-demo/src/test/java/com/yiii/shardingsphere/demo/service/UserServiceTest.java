@@ -1,11 +1,11 @@
-package com.lh.shardingsphere.demo.service;
+package com.yiii.shardingsphere.demo.service;
 
 import com.github.pagehelper.PageInfo;
-import com.lh.shardingsphere.demo.dao.ScoreDao;
-import com.lh.shardingsphere.demo.dao.UserDao;
-import com.lh.shardingsphere.demo.model.Score;
-import com.lh.shardingsphere.demo.model.User;
-import com.lh.shardingsphere.demo.vo.UserScoreVo;
+import com.yiii.shardingsphere.demo.dao.ScoreDao;
+import com.yiii.shardingsphere.demo.dao.UserDao;
+import com.yiii.shardingsphere.demo.model.Score;
+import com.yiii.shardingsphere.demo.model.User;
+import com.yiii.shardingsphere.demo.vo.UserScoreVo;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;

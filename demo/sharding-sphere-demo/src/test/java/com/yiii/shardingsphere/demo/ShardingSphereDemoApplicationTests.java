@@ -1,4 +1,4 @@
-package com.lh.shardingsphere.demo;
+package com.yiii.shardingsphere.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

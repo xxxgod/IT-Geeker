@@ -1,7 +1,7 @@
-package com.lh.shardingsphere.demo.dao;
+package com.yiii.shardingsphere.demo.dao;
 
 
-import com.lh.shardingsphere.demo.model.Score;
+import com.yiii.shardingsphere.demo.model.Score;
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ExampleMapper;
 

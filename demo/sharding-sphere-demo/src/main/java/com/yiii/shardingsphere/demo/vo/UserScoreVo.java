@@ -1,4 +1,4 @@
-package com.lh.shardingsphere.demo.vo;
+package com.yiii.shardingsphere.demo.vo;
 
 import lombok.Data;
 

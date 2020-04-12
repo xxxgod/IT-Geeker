@@ -1,4 +1,4 @@
-package com.lh.shardingsphere.demo.model;
+package com.yiii.shardingsphere.demo.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,17 +9,17 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Data
-@Table(name = "user")
+@Table(name = "score")
 @NoArgsConstructor
 @AllArgsConstructor
-public class User {
+public class Score {
 
     @Id
     @KeySql(useGeneratedKeys = true)
     private Integer id;
 
-    private String name;
+    private Integer userId;
 
-    private Integer age;
+    private Integer score;
 
 }

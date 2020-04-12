@@ -1,12 +1,12 @@
-package com.lh.shardingsphere.demo.service;
+package com.yiii.shardingsphere.demo.service;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
-import com.lh.shardingsphere.demo.dao.ScoreDao;
-import com.lh.shardingsphere.demo.dao.UserDao;
-import com.lh.shardingsphere.demo.model.Score;
-import com.lh.shardingsphere.demo.model.User;
-import com.lh.shardingsphere.demo.vo.UserScoreVo;
+import com.yiii.shardingsphere.demo.dao.ScoreDao;
+import com.yiii.shardingsphere.demo.dao.UserDao;
+import com.yiii.shardingsphere.demo.model.Score;
+import com.yiii.shardingsphere.demo.model.User;
+import com.yiii.shardingsphere.demo.vo.UserScoreVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;
