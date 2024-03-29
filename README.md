@@ -4,11 +4,11 @@
 主流编程学习，前沿技术拓展，DIY研究
 
 #### 软件架构
-1.AI语音、图片识别算法   
+1.AI语音、图片识别算法    
 2.私有云搭建      
-3.路由硬件技术 
-4.网站搭建  
-5.系统搭建-黑苹果  
+3.路由硬件技术  
+4.网站搭建   
+5.系统搭建-黑苹果    
 
 <!--  skill badge 技能徽章 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
