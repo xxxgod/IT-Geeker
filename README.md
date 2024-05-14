@@ -1,4 +1,4 @@
-# Coding-the-future
+# IT-Geek
 
 #### 介绍
 主流编程学习，前沿技术拓展，DIY研究
