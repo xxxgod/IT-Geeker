@@ -1,15 +1,14 @@
-# IT-Geeker
+# Coding-the-future
 
 #### 介绍
 主流编程学习，前沿技术拓展，DIY研究
 
 #### 软件架构
 1.AI语音、图片识别算法     
-2.私有云        
-3.嵌入式路由    
-4.运维部署    
-5.系统搭建-黑苹果,linux  
-
+2.私有云搭建
+3.应用网站搭建
+4.路由硬件技术
+5.系统搭建
 
 <!--  skill badge 技能徽章 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -35,10 +34,12 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=redis,mongodb,idea,git,gitlab,docker,elasticsearch,html,java,linux,jenkins,markdown,nginx,shell" /><br>
 
 #### 参与贡献
-
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+
