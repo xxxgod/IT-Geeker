@@ -34,8 +34,6 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=redis,mongodb,idea,git,gitlab,docker,elasticsearch,html,java,linux,jenkins,markdown,nginx,shell" /><br>
 
 #### 参与贡献
 1.  Fork 本仓库
