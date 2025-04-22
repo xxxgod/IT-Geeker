@@ -21,7 +21,7 @@ BlockchainExample 类：主类，用于测试区块链的功能。创建一个�
 这个示例只是一个简单的区块链实现，实际的区块链项目要复杂得多，需要考虑更多的因素，如共识机制、网络通信、智能合约等。    
 
 
-```
+```java
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
